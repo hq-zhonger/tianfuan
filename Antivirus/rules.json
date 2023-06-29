@@ -1,0 +1,33 @@
+{
+	"finger": [{
+		"md5":"2fd5cd6497c087972edb98f1d5fc4a2d",
+		"sha256":"843e3db6c096e3e0459eb7bd262b1e34de0bb7f964aa68a3e9712a4f3ee70505",
+		"hex":"CD 21 B8 01 4C CD 21 54 68 69 73 20 70 72 6F 67 72 61 6D 20 63 61 6E 6E 6F 74 20 62 65 20 72 75 6E 20 69 6E 20 44 4F 53 20 6D 6F 64 65 2E 0D 0D 0A 24 00 00 00 00 00 00 00 50 45,FF 20 47 6F 20 62 75 69 6C 64 20 49 44 3A 20 22 58 46 79 4E 34 7A 30 72 72 6B 48 4C 38 4A 56 37 6F 39 4A 6A 2F 69 56 66 79 57 47 64 41 33 37 56 30 71 61 43 72 63 6F 35 62 2F 69 62 63 72 36 43 46 6C 76 41 47 61 6A 41 52 5A 43 6B 71 51 2F 7A 61 78 75 36 39 62 47 4D 48 4E 67 53 54 47 72 4E 37 34 45",
+		"type":"Trojan",
+		"family":"Meterpreter"
+	},{
+		"md5":"b4d3c976bcf37b3bcd7a35e41bc32ac7",
+		"sha256":"bb976980de4e380a4c357fc4f772c702f432b0f9a507d3ccfb04387d31d475a7",
+		"hex":"89 f2 66 0f 1f 44 00 00 48 39 91 90 00 00 00 0f  85 96 00 00 00 48 8d 4c",
+		"type":"Trojan",
+		"family":"Meterpreter"
+	},{
+		"md5": "c4031e438dfb6959de99dbd35368ef61",
+		"sha256":"8c6787764e5e2b2da8c5a3e9e2fd6f8381dfec12381b8518b4e653fa23646a15",
+		"hex": "c5 34 b0 7a d8 50 fe 0a  58 dd 40 3c c7 54 6d 9d 63 74 48 2c b1 4e 47 2d  c1 14 04 71 bf 64 f9 24",
+		"type": "测试",
+		"family": "edge浏览器"
+	},{
+		"md5": "b732e68ea513fbd5225221a19d1e9a29",
+		"sha256":"ea8a42681568bece4a45c9379945b161958e0f391bc021d847562015242fa28e",
+		"hex": "b3 56 de d9 d5 f2 eb 87  ae 62 75 42 e4 32 d8 66 72 f7 bf 94 64 7a 73 72  e3 f0 ed e2 df bc 0e a2",
+		"type": "测试",
+		"family": "火狐浏览器"
+	},{
+		"md5": "57d7cfaa93c9411ffad2921173059af9",
+		"sha256":"e669e99fcecd742c96d38add6f6e7ee35f7eed7bf39eefa241f6e8db6c52d6f5",
+		"hex": "ef 10 a7 aa 14 3b 1d 57  96 1b 68 01 15 5b 53 7b 0d 2d ff 9c 6a 39 08 a1  dc d5 ad 27 b2 ee 65 95",
+		"type": "测试",
+		"family": "谷歌浏览器"
+	}]
+}
