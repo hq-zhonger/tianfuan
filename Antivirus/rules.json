@@ -29,5 +29,11 @@
 		"hex": "ef 10 a7 aa 14 3b 1d 57  96 1b 68 01 15 5b 53 7b 0d 2d ff 9c 6a 39 08 a1  dc d5 ad 27 b2 ee 65 95",
 		"type": "测试",
 		"family": "谷歌浏览器"
+	},{
+		"md5": "faf06125db26ddca3ab74f413e89ff79",
+		"sha256":"9e633b00ee71c4ac3c8c100d2b3e02ad696ce780dfe9afcf3349eeb16ef5ad51",
+		"hex": "89 74 24 78 48 89 5c 24  70 48 89 bc 24 48 01 00",
+		"type": "测试",
+		"family": "cs木马"
 	}]
 }
