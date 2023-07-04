@@ -4,6 +4,6 @@
 2.windows安全中心注册 Windows Security Center 2(wsc2)注册 前提需要成为ppl程序
 效果图
 ![gif](https://github.com/hq-zhonger/tianfuan/tree/main/test/draw.gif)
-![image1](https://github.com/hq-zhonger/tianfuan/blob/main/test/1.PNG))
+![image1](https://github.com/hq-zhonger/tianfuan/blob/main/test/1.PNG)
 ![image2](https://github.com/hq-zhonger/tianfuan/tree/main/test/2.PNG)
 ![image3](https://github.com/hq-zhonger/tianfuan/tree/main/test/3.PNG)
